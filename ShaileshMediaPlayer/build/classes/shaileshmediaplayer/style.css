@@ -1,0 +1,35 @@
+/* 
+    Created on : Feb 28, 2018, 10:56:48 AM
+    Author     : Shailesh Kumar
+*/
+
+
+
+#openFile {
+    -fx-background-image: url("../images/folder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#playButton {
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#stopButton {
+    -fx-background-image: url("../images/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+#pauseButton {
+    -fx-background-image: url("../images/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
